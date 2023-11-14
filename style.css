@@ -1,0 +1,32 @@
+.container{
+    max-width: 1080px;
+    margin: 50px 30px;
+    padding: 0 -15px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 15px;
+}
+
+body{
+    background-image: url("assets/House-made-of-sausages.png");
+    background-size: 100%;
+}
+
+h1{
+    color: #fff;
+    font-size: 38px;
+}
+
+input{
+    border-radius: 50px;
+}
+
+button{
+    border-radius: 50px;
+    background-color: chocolate;
+    color: #fff;
+}
